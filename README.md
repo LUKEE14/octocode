@@ -1,1 +1,3 @@
-# octocode
+# GiT 
+
+learning Git
